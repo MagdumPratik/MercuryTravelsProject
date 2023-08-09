@@ -1,0 +1,8 @@
+Utils\ReadPropertyConfig.class
+PageObjects\LoginPage.class
+TestCases\DATLoginTest.class
+TestCases\BaseCLass.class
+TestCases\LoginTestCase.class
+Utils\XLUtils.class
+PageObjects\test.class
+Utils\Reporting.class
